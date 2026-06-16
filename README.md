@@ -26,4 +26,4 @@ MVP/
 
 The current completed stage is the **POC version**. The POC demonstrates that the core photobooth system can run on a Raspberry Pi using a USB webcam, touchscreen display, OpenCV, and MediaPipe background segmentation.
 
-The MVP version will be developed after the POC stage.
+The MVP version will be developed after the POC.
