@@ -163,7 +163,7 @@ The routing design aims to minimise cable obstruction and improve internal organ
 
 There were some problems with the design, such as there still being insufficient space for cables (e.g. not enough space for the USB camera's cable from the Raspberry Pi to the top of the enclosure). To solve this, I will be making the base longer so that there is sufficient space for the cable to run comfortably and seamlessly through the enclosure.
 More improvements I plan to implement include:
-* Reduced print time by making the walls thinner
+* Reduced print time by making the walls thinner and to save 3D printing filament
 * Improved camera mounting solution
 * Final aesthetic refinements
 
