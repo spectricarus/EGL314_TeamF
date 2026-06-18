@@ -1,6 +1,6 @@
 # EGL314 Photobooth Enclosure POC Documentation
 
-## 1. Project Context and Rationale
+## 1. Project Context
 
 This enclosure was designed for the EGL314 Photobooth Project. The purpose of the enclosure is to house and protect the Raspberry Pi 4, touchscreen display, USB webcam, power cabling, and supporting hardware while maintaining portability and convenient assembly.
 
