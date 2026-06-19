@@ -102,7 +102,6 @@ The main application is built using `app.py`, with UI settings separated into `s
 | `requirements.txt`    | Python package dependencies                |
 | `assets/backgrounds/` | Stores background image templates          |
 | `saved_images/`       | Stores generated output images temporarily |
-| `docs/`               | Stores documentation images and diagrams   |
 
 ## 8. Testing and Observations
 
