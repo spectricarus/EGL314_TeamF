@@ -7,7 +7,7 @@ This is the hardware half of the MVP: thought processes behind design decisions 
 
 | File | What it is |
 |---|---|
-| [`back and front wall.dwg`](./back_and_front_wall.dwg) | AutoCAD drawing for the back and the front wall |
+| [`back and front wall.dwg`](../back_and_front_wall.dwg) | AutoCAD drawing for the back and the front wall |
 
 
 ## Designing the enclosure
