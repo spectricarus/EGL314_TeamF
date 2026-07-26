@@ -64,6 +64,9 @@ EGL314_TeamF/
             ├── screenshots/
             └── background-templates/
 ```
+## Designing the enclosure
+When designing the enclosure, there were a few things to consider:
+
 
 ## Sections
 
@@ -89,4 +92,3 @@ application — the stage after Proof of Concept, split into two parts:
   pipeline and the reasoning behind it, and UI flow
 - [**Hardware**](./MVP/Hardware) — enclosure and physical build for the MVP
   stage
-  
