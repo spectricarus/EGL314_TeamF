@@ -1,3 +1,5 @@
+[↑ Back to MVP overview](../README.md) (Software section is documented separately by teammate — linked from there)
+
 ## Designing the enclosure
 When designing the enclosure, there were a few things to consider:
 * Standoffs to mount the Raspberry Pi
