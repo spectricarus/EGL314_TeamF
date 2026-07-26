@@ -1,3 +1,4 @@
+# Hardware - Designing and 3D-printing the enclosure
 [↑ Back to MVP overview](../README.md) (Software section is documented separately by teammate — linked from there)
 
 ## Designing the enclosure
