@@ -11,7 +11,12 @@ This is the hardware half of the MVP: thought processes behind design decisions 
 | [`CAD/base_(updated).dwg`](./CAD/base_(updated).dwg) | AutoCAD drawing for the base of the enclosure |
 | [`CAD/side_walls.dwg`](./CAD/side_walls.dwg) | AutoCAD drawing for the side walls of the enclosure |
 | [`CAD/top_cover.dwg`](./CAD/top_cover.dwg) | AutoCAD drawing for the top cover of the enclosure |
-
+| [`STL/back-wall.stl`](./STL/back-wall.stl) | STL file for back wall of the enclosure |
+| [`STL/base.stl`](./STL/base.stl) | STL file for base of the enclosure |
+| [`STL/front-wall.stl`](./STL/front-wall.stl) | STL file for front wall of the enclosure |
+| [`STL/side-wall-with-hole.stl`](./STL/side-wall-with-hole.stl) | STL file for the side wall of the enclosure with the power cable access hole |
+| [`STL/side-wall.stl`](./STL/side-wall.stl) | STL file for side wall of the enclosure |
+| [`STL/top.stl`](./STL/top.stl) | STL file for top cover of the enclosure |
 
 ## Designing the enclosure
 When designing the enclosure, there were a few things to consider:
@@ -20,3 +25,4 @@ When designing the enclosure, there were a few things to consider:
 * Mounting for USB camera
 * Cable routing (eg. for power supply)
 * Enclosure is able to be mounted on a tripod
+
