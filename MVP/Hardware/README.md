@@ -1,5 +1,6 @@
 # Hardware - Designing and 3D-printing the enclosure
 [↑ Back to MVP overview](../README.md) (Software section is documented separately by teammate — linked from there)
+This is the hardware half of the MVP: thought processes behind design decisions and STL files for 3D-printing
 
 ## Designing the enclosure
 When designing the enclosure, there were a few things to consider:
