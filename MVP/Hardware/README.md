@@ -1,4 +1,4 @@
-<img width="1148" height="2040" alt="WhatsApp Image 2026-07-25 at 21 46 02 (2)" src="https://github.com/user-attachments/assets/e12f5911-b560-4acf-af3e-0cc5350bdc99" /># Hardware - Designing and 3D-printing the enclosure
+# Hardware - Designing and 3D-printing the enclosure
 [↑ Back to MVP overview](../README.md) (Software section is documented separately by teammate — linked from there)
 
 This is the hardware half of the MVP: thought processes behind design decisions and STL files for 3D-printing
