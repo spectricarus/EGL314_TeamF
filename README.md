@@ -1,8 +1,8 @@
 # EGL314 Photobooth Project
 
-This repository contains the Proof of Concept documentation and source files for the EGL314 Media Solutioning Project 1 photobooth project.
+This repository contains the documentation and source files for the EGL314 Media Solutioning Project 1 photobooth project.
 
-The project is a self-contained digital photobooth system that combines software, hardware, and enclosure design. The system uses a Raspberry Pi, touchscreen display, USB webcam, OpenCV, and MediaPipe to capture a user photo, remove the original background, replace it with a selected background, and save the final output image.
+The project is a self-contained digital photobooth system that combines software, hardware, and enclosure design. The system uses a Raspberry Pi, touchscreen display, USB webcam, OpenCV, and MediaPipe to capture a user photo, remove the original background, replace it with a selected background, and save the final output image. The system is contained in a 3D-printed enclosure that is specially designed to mount the Raspberry Pi, touchscreen display and USB webcam.
 
 ## Repository Structure
 
@@ -26,6 +26,9 @@ EGL314_TeamF/
         ├── STL/
         └── Images/
 ```
+## Designing the enclosure
+When designing the enclosure, there were a few things to consider:
+
 
 ## Sections
 
