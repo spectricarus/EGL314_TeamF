@@ -7,7 +7,7 @@ The project is a self-contained digital photobooth system that combines
 software, hardware, and enclosure design. The system uses a Raspberry Pi,
 touchscreen display, USB webcam, OpenCV, and MediaPipe to capture a user
 photo, remove the original background, replace it with a selected
-background, and save the final output image.
+background, and save the final output image. The hardware is contained inside a 3D-printed enclosure that is specially designed to properly mount a Raspberry Pi, a 7 inch touchscreen and a USB camera
 
 ## How the software and hardware fit together
 
@@ -66,6 +66,11 @@ EGL314_TeamF/
 ```
 ## Designing the enclosure
 When designing the enclosure, there were a few things to consider:
+* Standoffs to mount the Raspberry Pi
+* Mounting for a 7 inch Raspberry Pi touchscreen
+* Mounting for USB camera
+* Cable routing (eg. for power supply)
+* Enclosure is able to be mounted on a tripod
 
 
 ## Sections
