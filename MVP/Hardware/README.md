@@ -26,3 +26,8 @@ When designing the enclosure, there were a few things to consider:
 * Cable routing (eg. for power supply)
 * Enclosure is able to be mounted on a tripod
 
+To accommodate for these requirements, the design would include a front wall with "jailbars" to mount the touchscreen, standoffs on the base to mount the Raspberry Pi and a simple hole in the top cover where the USB camera will simply hang. The entire enclosure looks as such:
+<img width="1148" height="2040" alt="WhatsApp Image 2026-07-25 at 21 46 26 (1)" src="https://github.com/user-attachments/assets/e6b46c7f-5f1b-4a62-9228-e5b16361bb3c" />
+
+With Raspberry Pi mounting and screen mounting shown:
+<img width="1148" height="2040" alt="WhatsApp Image 2026-07-25 at 21 46 23 (1)" src="https://github.com/user-attachments/assets/fb8d2eb2-a77f-4307-9f40-07eff895779f" />
