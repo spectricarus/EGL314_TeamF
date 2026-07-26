@@ -17,7 +17,7 @@ files in this folder.
 
 ## The templates used for this MVP
 
-> - `beach-sunset.jpg` — ![thumbnail](../assets/background-templates/beach.jpgjpg)
+> - `beach.jpg` — ![thumbnail](../assets/background-templates/beach.jpg)
 > - `city.jpg` — ![thumbnail](../assets/background-templates/city.jpg)
 > - `country.jpg` — ![thumbnail](../assets/background-templates/country.jpg)
 > - `sunset.jpg` — ![thumbnail](../assets/background-templates/sunset.jpg)
