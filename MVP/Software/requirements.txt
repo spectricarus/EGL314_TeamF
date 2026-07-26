@@ -1,0 +1,16 @@
+mediapipe
+ultralytics
+opencv-python
+numpy
+pillow
+qrcode
+
+# Install with:
+#   pip install -r requirements.txt --break-system-packages
+#
+# --break-system-packages is required on Raspberry Pi OS to install into
+# the dedicated conda environment (photobooth_usb) rather than the
+# system-managed Python - see docs/environment-setup.md for the full setup.
+#
+# rclone is a separate command-line tool, not a Python package, and is not
+# installed via this file - see docs/environment-setup.md for that step.
