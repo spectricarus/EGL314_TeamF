@@ -1,4 +1,4 @@
-# Enclosure - Final Design
+# Enclosure — Photobooth Final Build
 
 [↑ Back to Final overview](../README.md)
 
