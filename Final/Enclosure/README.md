@@ -1,3 +1,5 @@
+# Enclosure — Photobooth Final Build
+
 [↑ Back to Final overview](../README.md)
 
 *This section covers the physical housing/case that the photobooth's electronics live inside — the design, the build process, and the reasoning behind it.*
