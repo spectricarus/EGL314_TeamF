@@ -8,7 +8,7 @@ A guest walks up, gets their photo taken, sees themselves composited onto a them
 
 ## Hardware — the shared foundation for both Enclosure and Software
 
-This section lives here, at the top level, deliberately — it isn't really an "enclosure thing" or a "software thing," it's context both halves of this documentation depend on. The enclosure needs to physically fit around this exact hardware (cutout sizes, screw mounts, cable routing); the software is written assuming these exact components and their specific capabilities. If any of these get swapped for a different model later, both sides of the documentation may need re-checking against the real thing, not just one.
+This section lives here, at the top level, deliberately — it isn't really an "enclosure thing" or a "software thing," it's context both halves of this documentation depend on. The enclosure needs to physically fit around this exact hardware (cutout sizes, screw mounts, cable routing); the software is written assuming these exact components and their specific capabilities. If any of these get swapped for a different model later, both sides of the documentation may need re-checking against the real thing.
 
 **Required:**
 
