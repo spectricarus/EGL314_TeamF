@@ -1,4 +1,4 @@
-# Enclosure
+# Enclosure - Final Design
 
 [↑ Back to Final overview](../README.md)
 
