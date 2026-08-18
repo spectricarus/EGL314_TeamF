@@ -1,5 +1,3 @@
-<img width="943" height="1280" alt="photo_6061915510594540162_y" src="https://github.com/user-attachments/assets/8a5f7c18-4fce-4d29-940c-805fdb4299df" /># Enclosure — Photobooth Final Build
-
 [↑ Back to Final overview](../README.md)
 
 *This section covers the physical housing/case that the photobooth's electronics live inside — the design, the build process, and the reasoning behind it.*
