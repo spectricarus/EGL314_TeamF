@@ -1,7 +1,8 @@
 # EGL314 Photobooth Project
 
-This repository contains the Proof of Concept and MVP documentation and
-source files for the EGL314 Media Solutioning Project 1 photobooth project.
+This repository contains the Proof of Concept, MVP, and Final build
+documentation and source files for the EGL314 Media Solutioning Project 1
+photobooth project, built for **Project Phantom**.
 
 The project is a self-contained digital photobooth system that combines
 software, hardware, and enclosure design. The system uses a Raspberry Pi,
@@ -43,26 +44,52 @@ EGL314_TeamF/
 │       ├── STL/
 │       └── Images/
 │
-└── MVP/
+├── MVP/
+│   ├── README.md
+│   ├── Hardware/
+│   └── Software/
+│       ├── README.md
+│       ├── finalV6.py
+│       ├── style.py
+│       ├── requirements.txt
+│       ├── docs/
+│       │   ├── CODE_STRUCTURE.md
+│       │   ├── environment-setup.md
+│       │   ├── dependencies.md
+│       │   ├── file-connections.md
+│       │   ├── pipeline-explained.md
+│       │   ├── ui-flow.md
+│       │   └── background-templates.md
+│       └── assets/
+│           ├── pipeline-diagram.svg
+│           ├── screenshots/
+│           └── background-templates/
+│
+└── Final/
     ├── README.md
-    ├── Hardware/
+    ├── Enclosure/
+    │   └── README.md
     └── Software/
         ├── README.md
-        ├── finalV6.py
+        ├── finalphotobooth.py
         ├── style.py
         ├── requirements.txt
         ├── docs/
-        │   ├── CODE_STRUCTURE.md
         │   ├── environment-setup.md
         │   ├── dependencies.md
+        │   ├── CODE_STRUCTURE.md
         │   ├── file-connections.md
         │   ├── pipeline-explained.md
         │   ├── ui-flow.md
-        │   └── background-templates.md
+        │   ├── background-templates.md
+        │   ├── architecture.md
+        │   ├── camera-reliability.md
+        │   ├── download-pipeline.md
+        │   ├── compositing-and-banner.md
+        │   └── troubleshooting.md
         └── assets/
-            ├── pipeline-diagram.svg
-            ├── screenshots/
-            └── background-templates/
+            ├── backgrounds/
+            └── screenshots/
 ```
 
 ## Sections
@@ -89,3 +116,14 @@ application — the stage after Proof of Concept, split into two parts:
   pipeline and the reasoning behind it, and UI flow
 - [**Hardware**](./MVP/Hardware) — enclosure and physical build for the MVP
   stage
+
+### [`Final`](./Final)
+
+The `Final` folder contains the finished, event-ready version of the
+photobooth used for **Project Phantom** — the stage after MVP, with
+reliability, performance, and experience improvements made in the final
+stretch before the event.
+
+See [`Final/README.md`](./Final/README.md) for the full picture, including
+the hardware used and links into both the Software and Enclosure
+documentation.
