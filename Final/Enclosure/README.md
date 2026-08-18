@@ -23,6 +23,13 @@
 | [`STL/side-wall.stl`](./STL/side-wall.stl) | STL file for side wall of the enclosure |
 | [`STL/top.stl`](./STL/top.stl) | STL file for top cover of the enclosure |
 
+## Screw Specifications
+18x 16mm M3 screws for the enclosure itself
+4x 12mm M3 screws to mount the touchscreen to the front wall
+4x 10mm M2.5 screws to mount the Raspberry Pi 4B to the base
+
+---
+
 ## Images
 
 
