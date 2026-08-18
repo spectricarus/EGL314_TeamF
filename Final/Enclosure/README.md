@@ -28,8 +28,12 @@
 ### With Raspberry Pi mounting and screen mounting shown:
 <img width="1014" height="1280" alt="photo_6061915510594540163_y" src="https://github.com/user-attachments/assets/f5c727c5-68d4-4b15-a910-ac9051830b65" />
 
+---
+
 ### Enclosure mounted on tripod:
 <img width="943" height="1280" alt="photo_6061915510594540162_y" src="https://github.com/user-attachments/assets/34c6206d-1a99-44c9-8e5c-800990e9f16b" />
+
+---
 
 ## Individual parts
 The following images will show what each individual part of the enclosure should look like.
